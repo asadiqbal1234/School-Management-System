@@ -100,12 +100,16 @@ Visit to the given URL to see the running website
 The project comes with default user on each panel you can remove and update them also.
 The Credentials for default logins are
 
-Panel	Email	Password
+# Panel	Email	Password
+
 Admin	admin@gmail.com	123
+
 Teacher	teacher@gmail.com	123
+
 Student	student@gmail.com	123
+
 Owner	owner@gmail.com	123
 
-Note : Password for New Teachers and Students:
+# Note : Password for New Teachers and Students:
 The default password for newly created teacher and student accounts is set to their date of birth.
 Example: If the date of birth is 12 July 2000, the password would be 12072000.
